@@ -123,6 +123,3 @@ export function renderOrderSummary(){
     });
   });
 }
-
-renderOrderSummary();
-renderPaymentSummary();
